@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://empathetic-goat-f0v4gk-dev-ed.my.salesforce.com",
+  "sourceApiVersion": "50.0"
+}
